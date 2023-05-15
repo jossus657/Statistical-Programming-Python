@@ -1,6 +1,6 @@
 # Statistical Programming with Python
 
-Repository for archived assignments/notes from learning statistical programming with Python
+Repository for archived assignments/notes from learning statistical programming with Python. Homework assignments focus primarily on coding practice problems with Python. Homework 4 in particular focuses on data analysis and manipulation with Pandas.
 
 Contains:
 1. Homework 1:
